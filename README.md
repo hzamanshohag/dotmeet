@@ -27,7 +27,7 @@ It combines a full appointment management system with an **AI assistant** that a
 | **Frontend Repository**  | [DotMeet Frontend](YOUR_FRONTEND_REPOSITORY_URL)          |
 | **Backend Repository**   | [DotMeet Backend](YOUR_BACKEND_REPOSITORY_URL)             |
 
-> Replace the placeholder URLs above with the actual DotMeet deployment and GitHub repository links.
+> Note: The DotMeet project is currently under development. The live website, backend API, frontend repository, and backend repository links will be added once the project is completed and deployed.
 
 ---
 
